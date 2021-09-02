@@ -1,0 +1,49 @@
+@import url('http://fonts.cdnfonts.com/css/octember-script');
+
+body{
+    background-color: #58F3D1;
+}
+.container-center{
+    display: block;
+    max-width: 600px;
+    margin: auto;
+    font-family: 'OctemberScript', sans-serif;
+}
+
+#top-heading{
+    display: block;
+    text-align: center;
+    font-family: 'OctemberScript', sans-serif;
+}
+
+.inputtext{
+    width: 90%;
+    height: 20vh;
+    margin: 1rem;
+    padding: 1rem;
+    font-family: 'OctemberScript', sans-serif;
+    background-color: white;
+    border: 3px solid black;
+    border-radius: 10px;
+}
+
+#translatebtn{
+    display: flex;
+    align-items: center;
+    margin: auto;
+    padding: 10px;
+    font-family: 'OctemberScript', sans-serif;
+    border: 2px solid black;
+    color: black;
+    border-radius: 8px;
+    background-color: #58F3D1;
+    font-style: bold;
+}
+
+#translatebtn:hover{
+    background-color: black;
+    color: #58F3D1;
+}
+/* .footer{
+    background-color: #ade0e4;
+} */
